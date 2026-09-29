@@ -1,0 +1,24 @@
+{
+  "name": "-rubric-framework-opgave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonGjela2004/-Rubric-Framework-Opgave.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LeonGjela2004/-Rubric-Framework-Opgave/issues"
+  },
+  "homepage": "https://github.com/LeonGjela2004/-Rubric-Framework-Opgave#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
